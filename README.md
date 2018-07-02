@@ -1,2 +1,5 @@
 # learning-curve
-My Learning Curve
+
+Hi Humans!
+
+First repository edit by chiegv
